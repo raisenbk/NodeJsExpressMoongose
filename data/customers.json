@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "6602d40b07ffcf1f50b4d456",
+    "name": "Chasity Franco",
+    "age": 24,
+    "email": "chasityfranco@kenegy.com",
+    "role": "user",
+    "active": false,
+    "photo": "user-1.jpg",
+    "password": "",
+    "createdAt": "2016-09-11T05:45:03"
+  },
+  {
+    "_id": "6602d40b25a97a11624af5fe",
+    "name": "Baird May",
+    "age": 25,
+    "email": "bairdmay@kenegy.com",
+    "role": "admin",
+    "active": false,
+    "photo": "user-5.jpg",
+    "password": "",
+    "createdAt": "2017-05-13T12:38:16"
+  },
+  {
+    "_id": "6602d40b20d7f38f2802d520",
+    "name": "Allyson Walker",
+    "age": 24,
+    "email": "allysonwalker@kenegy.com",
+    "role": "admin",
+    "active": true,
+    "photo": "user-4.jpg",
+    "password": "",
+    "createdAt": "2021-10-30T08:29:15"
+  },
+  {
+    "_id": "6602d40b3f669cf989e42b6a",
+    "name": "Watts Ward",
+    "age": 36,
+    "email": "wattsward@kenegy.com",
+    "role": "admin",
+    "active": false,
+    "photo": "user-5.jpg",
+    "password": "",
+    "createdAt": "2014-08-06T01:21:33"
+  },
+  {
+    "_id": "6602d40bd2fe827d62097131",
+    "name": "Meredith Ray",
+    "age": 30,
+    "email": "meredithray@kenegy.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-4.jpg",
+    "password": "",
+    "createdAt": "2023-01-08T07:35:08"
+  },
+  {
+    "_id": "6602d40b0bff01965d0e5c8d",
+    "name": "Whitaker Kramer",
+    "age": 21,
+    "email": "whitakerkramer@kenegy.com",
+    "role": "admin",
+    "active": false,
+    "photo": "user-4.jpg",
+    "password": "",
+    "createdAt": "2016-03-08T08:46:58"
+  }
+]
